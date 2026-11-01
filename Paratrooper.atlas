@@ -18,3 +18,30 @@ UnitIcons/RIN Paratrooper
   orig: 100, 100
   offset: 0, 0
   index: -1
+
+Tilesets.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Tiles/Mine
+  rotate: false
+  xy: 696, 578
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Mine
+  rotate: false
+  xy: 1513, 1191
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Mine-Industrial era
+  rotate: false
+  xy: 1513, 1127
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1

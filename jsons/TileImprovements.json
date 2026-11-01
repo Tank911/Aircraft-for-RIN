@@ -1,9 +1,9 @@
 [
 	{
 		"name": "RIN Mountain Mine",
-		"production": 1,
-		"techRequired": "",
-		"uniques": ["Gain control over [all] tiles in a [2]-tile radius",],
-		"shortcutKey": "M"
-	},
+		"science": 8,
+		"production": 10,
+		"uniques": ["Gain control over [all] tiles in a [1]-tile radius"],
+		"shortcutKey": "M+R"
+	}
 ]

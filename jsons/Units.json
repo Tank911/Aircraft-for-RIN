@@ -1,7 +1,7 @@
 [
   {
 		"name": "RG-7 Fighter",
-    "uniqueTo": "Republik Islam Nizam",
+        "uniqueTo": "Republik Islam Nizam",
 		"unitType": "Fighter",
 		"movement": 1,
 		"strength": 27,

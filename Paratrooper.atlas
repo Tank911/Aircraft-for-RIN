@@ -45,3 +45,79 @@ TileSets/HexaRealm/Tiles/RIN Mountain Mine-Industrial era
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/RIN Paratrooper
+  rotate: false
+  xy: 900, 805
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/OLB Paratrooper
+  rotate: false
+  xy: 900, 805
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/RIN Paratrooper
+  rotate: false
+  xy: 1801, 923
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/OLB Paratrooper
+  rotate: false
+  xy: 1801, 923
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+
+AbsoluteUnits.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/OLB Paratrooper
+  rotate: false
+  xy: 1241, 1428
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/RIN Paratrooper
+  rotate: false
+  xy: 1241, 1428
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/OLB Paratrooper-1
+  rotate: false
+  xy: 1344, 1517
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/OLB Paratrooper-2
+  rotate: false
+  xy: 1447, 1606
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/RIN Paratrooper-1
+  rotate: false
+  xy: 1344, 1517
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/RIN Paratrooper-2
+  rotate: false
+  xy: 1447, 1606
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,19 @@
+[
+  {
+		"name": "RG-7 Fighter",
+    "uniqueTo": "Republik Islam Nizam",
+		"unitType": "Fighter",
+		"movement": 1,
+		"strength": 27,
+		"rangedStrength": 27,
+		"range": 4,
+		"interceptRange": 4,
+		"cost": 325,
+		"requiredTech": "Electronics",
+		"requiredResource": "Oil",
+		"upgradesTo": "Fighter",
+		"obsoleteTech": "Radar",
+		"uniques": ["[50]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
+		"attackSound": "machinegun"
+	}
+]

@@ -11,3 +11,23 @@ UnitIcons/
   orig: 700, 700
   offset: 0, 0
   index: -1
+
+ConstructionIcons.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, Linear
+repeat: none
+UnitIcons/OLB Paratrooper
+  rotate: false
+  xy: 1400, 1512
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/RIN Paratrooper
+  rotate: false
+  xy: 1400, 1512
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

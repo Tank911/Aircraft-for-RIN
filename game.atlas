@@ -37,3 +37,16 @@ UnitIcons/TM-71 Fighter
   orig: 700, 700
   offset: 0, 0
   index: -1
+
+ConstructionIcons.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, Linear
+repeat: none
+UnitIcons/[Zero]
+  rotate: false
+  xy: 1810, 647
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

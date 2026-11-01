@@ -11,3 +11,29 @@ UnitIcons/RG-7 Fighter
   orig: 700, 700
   offset: 0, 0
   index: -1
+
+Tak berjudul5611.png
+size: 700, 700
+format: RGBA8888
+filter: MipMapLinearLinear, Linear
+repeat: none
+UnitIcons/RT-18 Fighter
+  rotate: false
+  xy: 0, 0
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+
+Tak berjudul5612.png
+size: 700, 700
+format: RGBA8888
+filter: MipMapLinearLinear, Linear
+repeat: none
+UnitIcons/TM-71 Fighter
+  rotate: false
+  xy: 0, 0
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1

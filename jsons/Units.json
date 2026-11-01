@@ -71,8 +71,19 @@
 		"strength": 65,
 		"cost": 375,
 		"requiredTech": "Radar",
-		"uniques": ["May Paradrop to [Land] tiles up to [5] tiles away <in [{Friendly} {Land}] tiles>", "Never appears as a Barbarian unit"],
+		"uniques": ["May Paradrop to [Land] tiles up to [5] tiles away <in [{Friendly} {Land}] tiles>", "May Paradrop to [Land] tiles up to [8] tiles away <in [{Enemy} {Land}] tiles>", "Never appears as a Barbarian unit"],
 		"attackSound": "shot"
 		// upgradesTo "XCOM Squad", "No Movement Cost to Pillage" in BNW
+	},
+	{
+		"name": "Future Soldier (RIN)",
+        "uniqueTo": "Republik Islam Nizam",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 100,
+		"cost": 400,
+		"requiredTech": "Nanotechnology",
+		"uniques": ["May Paradrop to [Land] tiles up to [40] tiles away <in [{Friendly} {Land}] tiles>", "May Paradrop to [Land] tiles up to [8] tiles away <in [{Enemy} {Land}] tiles>", "Never appears as a Barbarian unit"],
+		"attackSound": "shot"
 	},
 ]

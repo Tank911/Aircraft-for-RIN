@@ -72,9 +72,20 @@
 		"cost": 375,
 		"requiredTech": "Radar",
 		"upgradesTo": "CIP-2",
-		"uniques": ["May Paradrop to [Land] tiles up to [5] tiles away <in [{Friendly} {Land}] tiles>", "May Paradrop to [Land] tiles up to [8] tiles away <in [{Enemy} {Land}] tiles>", "Never appears as a Barbarian unit"],
+		"uniques": ["Paratrooper", "May Paradrop to [Land] tiles up to [5] tiles away <in [{Friendly} {Land}] tiles>", "May Paradrop to [Land] tiles up to [8] tiles away <in [{Enemy} {Land}] tiles>", "Never appears as a Barbarian unit"],
 		"attackSound": "shot"
-		// upgradesTo "XCOM Squad", "No Movement Cost to Pillage" in BNW
+	},
+	{
+		"name": "RIN Paratrooper",
+        "uniqueTo": "Republik Islam Nizam",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 65,
+		"cost": 375,
+		"requiredTech": "Radar",
+		"upgradesTo": "CIP-2",
+		"uniques": ["Paratrooper", "May Paradrop to [Land] tiles up to [5] tiles away <in [{Friendly} {Land}] tiles>", "Never appears as a Barbarian unit"],
+		"attackSound": "shot"
 	},
 	{
 		"name": "CIP-2",
@@ -86,5 +97,5 @@
 		"requiredTech": "Nanotechnology",
 		"uniques": ["May Paradrop to [Land] tiles up to [40] tiles away <in [{Friendly} {Land}] tiles>", "May Paradrop to [Land] tiles up to [8] tiles away <in [{Enemy} {Land}] tiles>", "Never appears as a Barbarian unit"],
 		"attackSound": "shot"
-	},
+	}
 ]

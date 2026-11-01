@@ -1,9 +1,9 @@
 [
 	{
 		"name": "RIN Mountain Mine",
+		"terrainsCanBeBuiltOn": ["Mountain"],
 		"science": 8,
 		"production": 10,
-		"uniques": ["Gain control over [all] tiles in a [1]-tile radius"],
-		"shortcutKey": "M+R"
+		"uniques": ["Gain control over [all] tiles in a [1]-tile radius"]
 	}
 ]
